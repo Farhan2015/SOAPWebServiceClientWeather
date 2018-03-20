@@ -1,0 +1,11 @@
+hello\wsdl\GetWeatherResponse.class
+hello\wsdl\GetCitiesByCountryResponse.class
+hello\WeatherClient.class
+hello\wsdl\ObjectFactory.class
+hello\CitiesByCountryClient.class
+hello\wsdl\GetCitiesByCountry.class
+hello\WeatherConfiguration.class
+hello\Application.class
+hello\wsdl\GetWeather.class
+hello\CitiesByCountryConfiguration.class
+hello\wsdl\package-info.class
